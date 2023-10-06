@@ -100,3 +100,9 @@ ul li span{
 ul li span:hover{
     background-color: #edeef0;
 }
+.correct{
+    background:  #9aeabc;
+}
+.incorrect{
+    background:  #ff9393;
+}
